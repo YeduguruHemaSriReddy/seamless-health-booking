@@ -161,6 +161,15 @@ docspot/
 
 ---
 
+## 👨‍💻 Team Members
+  •	Yeduguru HemaSri Reddy (Team Leader)
+  •	Bindu Sree U
+  •	Deepthi B
+  •	Shaik Fouziya
+  •	BM Jamuna
+  
+---
+
 ## 👨‍🎓 Developed By
 
 
