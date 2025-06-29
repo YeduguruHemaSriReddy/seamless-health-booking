@@ -1,0 +1,28 @@
+/* src/components/common/Navbar.jsx */
+import { Link } from "react-router-dom";
+import React from "react";
+
+export default function Navbar() {
+  return (
+    <nav className="navbar navbar-expand-lg navbar-light bg-light">
+      <div className="container-fluid">
+
+        {/* brand / logo */}
+        <Link className="navbar-brand" to="/">DocSpot</Link>
+
+        {/* usual nav items … */}
+        <div className="collapse navbar-collapse">
+
+          {/* ✅ NEW: Apply as Doctor button */}
+          <ul className="navbar-nav ms-auto">
+            <li className="nav-item">
+              <Link to="/apply-doctor" className="btn btn-outline-danger">
+                Apply as Doctor
+              </Link>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  );
+}

@@ -1,0 +1,72 @@
+.register-page {
+  display: flex;
+  height: 100vh;
+  background-color: #dbe0df;
+  font-family: 'Segoe UI', sans-serif;
+}
+
+.form-section {
+  flex: 1;
+  padding: 50px;
+}
+
+.form-section h2 {
+  margin-bottom: 30px;
+}
+
+.form-section form {
+  display: flex;
+  flex-direction: column;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+  padding: 12px;
+  margin-bottom: 15px;
+  border: none;
+  border-radius: 20px;
+  font-size: 16px;
+}
+
+.role-options {
+  display: flex;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.role-options label {
+  font-size: 16px;
+}
+
+.btn-yellow {
+  background-color: #ffbc00;
+  color: black;
+  border: none;
+  padding: 12px;
+  border-radius: 20px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.btn-yellow:hover {
+  background-color: #e0a800;
+}
+
+.link {
+  color: blue;
+  cursor: pointer;
+  text-decoration: underline;
+}
+
+.image-section {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.image-section img {
+  max-width: 80%;
+  height: auto;
+}
