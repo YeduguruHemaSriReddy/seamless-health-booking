@@ -22,7 +22,7 @@ The user interface provides different portals for Patients, Doctors, and Admins 
 ## 🧑‍💻 Tech Stack
 
 - **React.js**
-- **Material UI**, **Bootstrap**, **Ant Design**
+- **Material UI**, **Bootstrap**
 - **Axios** (API communication)
 - **React Router** (Routing)
 - **State Management** using React Hooks
@@ -86,15 +86,6 @@ Frontend can be deployed using:
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Doctor Dashboard | Booking Form |
-|--------------|------------------|--------------|
-| ![Landing](../screenshots/landing.png) | ![Doctor](../screenshots/doctor.png) | ![Booking](../screenshots/booking.png) |
-
----
-
 ## 👨‍🎓 Developed By
-
-**Erik Goorwana**  
+  
 Frontend Developer | React Enthusiast 💻✨
