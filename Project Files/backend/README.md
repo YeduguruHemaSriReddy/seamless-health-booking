@@ -110,5 +110,4 @@ Backend can be deployed using:
 
 ## 👨‍🎓 Developed By
 
-**Erik Goorwana**  
 Backend Developer | Node.js | REST API Specialist ⚙️🌍
