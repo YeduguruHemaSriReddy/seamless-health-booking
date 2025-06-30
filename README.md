@@ -90,7 +90,7 @@ docspot/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/docspot.git
+   git clone https://github.com/YeduguruHemaSriReddy/seamless-health-booking.git
    cd docspot
    ```
 
@@ -137,14 +137,6 @@ docspot/
 
 ---
 
-## 📸 Screenshots
-
-| Landing Page | Doctor Dashboard | Booking Form |
-|--------------|------------------|--------------|
-| ![Landing](screenshots/landing.png) | ![Doctor](screenshots/doctor.png) | ![Booking](screenshots/booking.png) |
-
----
-
 ## 🧪 Testing
 
 - Use Postman to test backend APIs
@@ -171,7 +163,6 @@ docspot/
 ---
 
 ## 👨‍🎓 Developed By
-
 
 MERN Stack Developer | Passionate about building solutions that improve lives 🌐💡
 
