@@ -1,4 +1,4 @@
-const Appointment = require("../models/appointment");
+const Appointment = require("../models/Appointment");
 const User = require('../models/User'); // ✅ correct filename
 const Doctor = require("../models/Doctor");
 const sendEmail = require("./sendMail");
